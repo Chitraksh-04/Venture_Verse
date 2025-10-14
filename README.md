@@ -37,6 +37,7 @@ Built using **Next.js**, **Sanity CMS**, and **Tailwind CSS**, it offers a sleek
 ### 1️⃣ Clone the repository
 
 git clone https://github.com/Chitraksh-04/Venture_Verse.git
+
 cd Venture_Verse
 
 
