@@ -1,11 +1,11 @@
-# 🚀 Next Ventures
+# 🚀 [Next Ventures](https://github.com/Chitraksh-04/Venture_Verse/blob/main/README.md#-next-ventures)
 
 **Next Ventures** is a modern web platform for entrepreneurs to **pitch their startups**, **explore innovations**, and **connect with investors and founders**.  
 Built using **Next.js**, **Sanity CMS**, and **Tailwind CSS**, it offers a sleek, interactive experience with real-time content updates and stunning UI animations.
 
 ---
 
-## 🌟 Features
+## 🌟 [Features](https://github.com/Chitraksh-04/Venture_Verse/blob/main/README.md#-features)
 
 - 🧠 **Dynamic Pitch Cards** — Explore and showcase startup ideas with real-time Sanity data.  
 - 🎥 **Animated Hero Section** — Interactive pitch previews and collaborative cursor effects.  
@@ -31,10 +31,11 @@ Built using **Next.js**, **Sanity CMS**, and **Tailwind CSS**, it offers a sleek
 
 ---
 
-## ⚙️ Setup & Installation
+
+## ⚙️ [Setup & Installation](https://github.com/Chitraksh-04/Venture_Verse/blob/main/README.md#️-setup--installation)
 
 ### 1️⃣ Clone the repository
-```bash
+
 git clone https://github.com/Chitraksh-04/Venture_Verse.git
 cd Venture_Verse
 
