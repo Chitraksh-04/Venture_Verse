@@ -1,4 +1,3 @@
-import "server-only"
 import { createClient } from "next-sanity"
 
 import { client } from "@/sanity/lib/client"
